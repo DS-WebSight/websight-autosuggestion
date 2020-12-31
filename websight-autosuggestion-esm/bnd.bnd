@@ -1,0 +1,3 @@
+Bundle-Name: WebSight Autosuggestion ESM
+Bundle-License: GNU AGPLv3
+Sling-Bundle-Resources: /apps/websight-autosuggestion-esm
