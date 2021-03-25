@@ -1,0 +1,3 @@
+Bundle-Name: WebSight Autosuggestion Service
+Bundle-License: GNU AGPLv3
+Sling-Model-Classes: pl.ds.websight.autosuggestion.rest.GetAutosuggestionRestModel
