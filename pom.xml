@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>pl.ds.websight</groupId>
   <artifactId>websight-autosuggestion-reactor</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <packaging>pom</packaging>
   <name>WebSight Autosuggestion Reactor</name>
   <description>The reactor POM to build all WebSight Autosuggestion modules</description>
@@ -35,6 +34,7 @@
     <connection>scm:git:ssh://github.com:DS-WebSight/websight-autosuggestion.git</connection>
     <developerConnection>scm:git:ssh://github.com:DS-WebSight/websight-autosuggestion.git</developerConnection>
     <url>https://github.com/DS-WebSight/websight-autosuggestion</url>
+    <tag>1.0.2</tag>
   </scm>
   <build>
     <plugins>
